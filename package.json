@@ -1,0 +1,13 @@
+{
+  "name": "loginlink-js",
+  "version": "1.0.1",
+  "description": "Lightweight OAuth client for Login Link (WebSvc).",
+  "main": "src/index.js",
+  "keywords": ["oauth", "loginlink", "websvc", "authentication"],
+  "author": "WebSvc",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-svc/loginlink-js.git"
+  }
+}
